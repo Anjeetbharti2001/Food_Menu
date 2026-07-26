@@ -17,7 +17,7 @@ body{
     cursor: pointer;
     transition: 5s;
 }
-.menu_item:hover{
+.menu_container.b:hover{
     background-color:orange;
     color:white;
     transform:scale(1.05);
